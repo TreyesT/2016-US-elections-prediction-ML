@@ -19,12 +19,7 @@ This repository explores whether **county-level demographic data** can accuratel
 
 - **presentations/**  
   Contains presentation materials (e.g., PDFs, slides) that provide a high-level summary of the analysis and results. These are typically used for communicating findings to stakeholders or at meetups/conferences.
-
-- **.DS_Store / .gitignore**  
-  System files and Git settings for ignoring temporary or OS-specific files (e.g., `.DS_Store` on macOS).
-
-- **README.md**  
-  This file you’re reading, which explains the project’s structure and purpose at a glance.
+  
 
 ## Key Findings
 - **Density vs. Population**: High-density (urban) counties tend to vote Democratic, whereas counties with large land area but lower density favor Republican outcomes.  
