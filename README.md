@@ -14,11 +14,8 @@ This repository explores whether **county-level demographic data** can accuratel
   - **Election results** data aggregated by county for the 2016 presidential primaries and/or general election.
 
 - **notebooks/**  
-  Contains Jupyter notebooks used for data cleaning, exploratory data analysis (EDA), feature engineering, model training, and validation. Each notebook typically covers a step in the workflow:
-  - **01_data_cleaning.ipynb** – Merging datasets, handling missing values, and renaming columns for clarity.
-  - **02_eda.ipynb** – Exploratory data analysis, visualizations, and correlation checks.
-  - **03_modeling.ipynb** – Training logistic regression models (with L1 regularization), evaluating performance metrics, and fine-tuning hyperparameters.
-  - **04_feature_engineering.ipynb** – Addressing multicollinearity, creating composite indices, and recalculating model performance.
+  Contains the Jupyter notebook used for data cleaning, exploratory data analysis (EDA), feature engineering, model training, and validation.
+  - **2016_Elections_Prediction_Model.ipynb** – 
 
 - **presentations/**  
   Contains presentation materials (e.g., PDFs, slides) that provide a high-level summary of the analysis and results. These are typically used for communicating findings to stakeholders or at meetups/conferences.
